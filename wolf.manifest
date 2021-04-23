@@ -49,11 +49,10 @@ KernelClock.html
 kernelclock.js
 Lamance132.html
 lamance132.js
-linux.js
-LinuxLoader-1GB.js
-LinuxLoader-3GB.js
 LinuxLoader1GB.html
+LinuxLoader1GB.js
 LinuxLoader3GB.html
+LinuxLoader3GB.js
 loader-750.js
 loader-751.js
 loader-755.js
@@ -71,9 +70,9 @@ nativecaller132.js
 netcat.js
 ps4debug.js
 Renamer.html
+Renamer.js
 Restore.html
 Restore.js
-rifrenamer.js
 Todex.html
 todex.js
 WebRte.html
